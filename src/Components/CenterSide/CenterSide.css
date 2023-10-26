@@ -1,0 +1,16 @@
+.centerSide {
+        width: calc(60% - 20px);
+        min-height: 440px;
+        float: left;
+        background: #FCD800;
+        margin: 0px 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
+
+.disFlex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

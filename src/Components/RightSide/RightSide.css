@@ -1,0 +1,14 @@
+.rightSide {
+
+    width: 20%;
+    min-height: 440px;
+    float: left;
+    background: #FCD800;
+
+}
+
+.disFlex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

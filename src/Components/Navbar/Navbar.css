@@ -1,0 +1,13 @@
+.navbar{
+    width: 100%;
+    height: 70px;
+    float: left;
+    background: #FCD800;
+    margin-bottom: 10px;
+}
+
+.disFlex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
